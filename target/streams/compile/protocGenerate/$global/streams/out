@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to /home/francis/Git/SparkGPUdemo/src/main/resources/specs,/home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main,/home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main,/home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main,/home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main[0m
+[0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /home/francis/Git/SparkGPUdemo/src/main/protobuf/GpuNode.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling protobuf[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/francis/Git/SparkGPUdemo/src/main/resources/specs[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/francis/Git/SparkGPUdemo/target/scala-2.11/src_managed/main[0m

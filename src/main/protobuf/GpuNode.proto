@@ -1,0 +1,26 @@
+syntax = "proto3";
+package rpcService;
+service GpuNode {
+    rpc CreateFile (createFileInput) returns (createFileOutput);
+    rpc CallKernel (kernelCallInput) returns (kernelCallOutput);
+}
+
+message createFileInput {
+    int64 fsize = 1;
+    string fpath = 2;
+}
+
+message createFileOutput {
+    string msg = 1;
+}
+
+message kernelCallInput {
+    string fpath = 1;
+    string func = 2;
+    int64 param = 3;
+}
+
+message kernelCallOutput {
+    string fpath = 1;
+    int32 fsize = 2;
+}

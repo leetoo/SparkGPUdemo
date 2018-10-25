@@ -1,0 +1,33 @@
+
+1. createFile
+in:{
+    int64 fsize,
+    string fpath,
+}
+
+out:{
+    string msg
+}
+
+
+2. callKernel
+in:{
+    string fpath,
+    string func,
+    int32 param
+}
+
+out:{
+    string fpath,
+    int64 fsize
+}
+
+3. deleteFile
+in:{
+    int64 fsize,
+    string fpath,
+}
+
+out:{
+    string msg
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: beyondthelines:grpcgatewayruntime_2.11:0.0.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/beyondthelines/grpcgatewayruntime_2.11/jars/grpcgatewayruntime_2.11-0.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

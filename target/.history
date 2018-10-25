@@ -1,2 +1,32 @@
 ;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/home/francis/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
 exit
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "/home/francis/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/cleanFiles
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/clean
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/compile
+compile
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/compile
+compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download");apply -cp "/home/francis/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download");apply -cp "/home/francis/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/tmp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download");apply -cp "/home/francis/.IdeaIC2018.2/config/plugins/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+compile
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/clean
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/update
+build
+test
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/update
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/projectDependencies
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/dependencyOverrides
+clean
+clean files
+{file:/home/francis/Git/SparkGPUdemo/}sparkgpudemo/cleanFiles
+compile
+build
+compile

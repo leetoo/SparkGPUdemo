@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: beyondthelines:grpcakkastreamruntime_2.11:0.0.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/beyondthelines/grpcakkastreamruntime_2.11/jars/grpcakkastreamruntime_2.11-0.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

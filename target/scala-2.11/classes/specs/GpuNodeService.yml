@@ -1,0 +1,14 @@
+swagger: '2.0'
+info:
+  version: not set
+  title: 'GpuNodeProto'
+  description: 'REST API generated from GpuNode.proto'
+schemes:
+  - http
+  - https
+consumes:
+  - 'application/json'
+produces:
+  - 'application/json'
+paths:
+definitions:

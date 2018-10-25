@@ -4,7 +4,7 @@
 		module="sparkgpudemo-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181017193207"
+		publication="20181024133334"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -40,6 +40,11 @@
 			<artifact name="global-plugins" type="src" ext="jar" conf="compile" e:classifier="sources"/>
 			<artifact name="global-plugins" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
 		</dependency>
+		<dependency org="com.thesamet" name="sbt-protoc" rev="0.99.13" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12"/>
+		<dependency org="com.trueaccord.scalapb" name="compilerplugin_2.12" rev="0.6.7" conf="compile->default(compile)"/>
+		<dependency org="beyondthelines" name="grpcgatewaygenerator_2.12" rev="0.0.6" conf="compile->default(compile)"/>
+		<dependency org="beyondthelines" name="grpcmonixgenerator_2.12" rev="0.0.5" conf="compile->default(compile)"/>
+		<dependency org="beyondthelines" name="grpcakkastreamgenerator_2.12" rev="0.0.5" conf="compile->default(compile)"/>
 		<override org="org.scala-sbt" module="scripted-plugin_2.12" matcher="exact" rev="1.2.6"/>
 	</dependencies>
 </ivy-module>

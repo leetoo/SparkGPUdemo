@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: io.opencensus:opencensus-contrib-grpc-metrics:0.8.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.opencensus/opencensus-contrib-grpc-metrics/jars/opencensus-contrib-grpc-metrics-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
